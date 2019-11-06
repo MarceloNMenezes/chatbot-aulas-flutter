@@ -3,6 +3,7 @@ import 'package:chatbot/widgets/chat_message_list_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dialogflow/dialogflow_v2.dart';
 
+
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
@@ -73,7 +74,7 @@ class _HomePageState extends State<HomePage> {
   // Envia uma mensagem com o padrão a direita
   void _sendMessage({String text}) {
     _controllerText.clear();
-    _addMessage(name: 'Kleber Andrade', text: text, type: ChatMessageType.sent);
+    _addMessage(name: 'Manoel Torres', text: text, type: ChatMessageType.sent);
   }
 
   // Adiciona uma mensagem na lista de mensagens
