@@ -9,18 +9,16 @@ Tutorial de criação deste app: http://bit.ly/2mDfTBB
     <img src="https://i.ibb.co/8NqJQhk/Screenshot-2019-11-27-10-02-18-434-com-example-chatbot.jpg" width="400"/>
 </p>
 
-## Como clonar e importar
+## RA
+Manoel Torres = 0040481821028
 
--   Faça um fork do projeto
--   Abra o terminal do Visual Studio Code
--   Digite (troque kleberandrade pelo nome do seu usuários): git clone https://github.com/kleberandrade/chatbot-aulas-flutter chatbot
+Alan vidal = 0040481821048
+
+Marcelo Menezes = 0040481821025
+
 
 ## Desafios
 
-## RA
-Manoel Torres = 0040481821028
-Alan vidal = 0040481821048
-Marcelo Menezes = 0040481821025
 
 [x] - Melhorar a exibição das mensagens, aplicando um Clippy no estilo Whatsapp (se quiser, pode utilizar o [clippy_flutter](https://pub.dev/packages/clippy_flutter))
 [x] - Adicionar data/hora de recebimento ou envio das mensagens ([DateTime class](https://api.flutter.dev/flutter/dart-core/DateTime-class.html))
