@@ -5,8 +5,8 @@ Aplicativo de chatbot
 Tutorial de criação deste app: http://bit.ly/2mDfTBB
 
 <p align="center">
-    <img src="https://i.ibb.co/272xMPh/Screenshot-2019-11-27-10-01-41-701-com-example-chatbot.jpg" width="800"/>
-    <img src="https://i.ibb.co/8NqJQhk/Screenshot-2019-11-27-10-02-18-434-com-example-chatbot.jpg" width="800"/>
+    <img src="https://i.ibb.co/272xMPh/Screenshot-2019-11-27-10-01-41-701-com-example-chatbot.jpg" width="400"/>
+    <img src="https://i.ibb.co/8NqJQhk/Screenshot-2019-11-27-10-02-18-434-com-example-chatbot.jpg" width="400"/>
 </p>
 
 ## Como clonar e importar
