@@ -5,7 +5,8 @@ Aplicativo de chatbot
 Tutorial de criação deste app: http://bit.ly/2mDfTBB
 
 <p align="center">
-    <img src="https://miro.medium.com/max/1440/1*2JCTeW4Use_q4OmA1gnC1w.png" width="800"/>
+    <img src="https://i.ibb.co/272xMPh/Screenshot-2019-11-27-10-01-41-701-com-example-chatbot.jpg" width="800"/>
+    <img src="https://i.ibb.co/8NqJQhk/Screenshot-2019-11-27-10-02-18-434-com-example-chatbot.jpg" width="800"/>
 </p>
 
 ## Como clonar e importar
@@ -15,6 +16,11 @@ Tutorial de criação deste app: http://bit.ly/2mDfTBB
 -   Digite (troque kleberandrade pelo nome do seu usuários): git clone https://github.com/kleberandrade/chatbot-aulas-flutter chatbot
 
 ## Desafios
+
+## RA
+Manoel Torres = 0040481821028
+Alan vidal = 0040481821048
+Marcelo Menezes = 0040481821025
 
 [x] - Melhorar a exibição das mensagens, aplicando um Clippy no estilo Whatsapp (se quiser, pode utilizar o [clippy_flutter](https://pub.dev/packages/clippy_flutter))
 [x] - Adicionar data/hora de recebimento ou envio das mensagens ([DateTime class](https://api.flutter.dev/flutter/dart-core/DateTime-class.html))
